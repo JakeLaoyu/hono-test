@@ -9,8 +9,8 @@ dependencies:
     specifier: ^1.2.2
     version: 1.2.2
   hono:
-    specifier: ^3.10.0
-    version: 3.10.0
+    specifier: ^3.11.7
+    version: 3.11.7
 
 devDependencies:
   tsx:
@@ -270,8 +270,8 @@ packages:
       resolve-pkg-maps: 1.0.0
     dev: true
 
-  /hono@3.10.0:
-    resolution: {integrity: sha512-rN8PNMt66U58Qj3+L8gr7EsaYnj56cBDS2MjhUnMgDaXoyw44/OeFDsmXXzn/YQ7CAWeENC3Dq/kp+4RJSNE3Q==}
+  /hono@3.11.7:
+    resolution: {integrity: sha512-TcfAq7IdipF+9coxnuzYlSSBXbm9mTyWjjagLCv/2ampboNcKJdi+XCK5G48mHQtpI5+9Rj3J4FfcGgw9vzIww==}
     engines: {node: '>=16.0.0'}
     dev: false
 
